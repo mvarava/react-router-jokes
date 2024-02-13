@@ -1,5 +1,5 @@
-import { Link, NavLink } from "react-router-dom";
-import styles from "./Header.module.css";
+import { NavLink } from 'react-router-dom';
+import styles from './Header.module.css';
 
 const Header = () => {
   return (
